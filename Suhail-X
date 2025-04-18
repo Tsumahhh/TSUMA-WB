@@ -1,22 +1,21 @@
 #=============================================#
 #                 v.1.3.7                     #  
-# █▀▀▀█ █  █ █  █ ▄▀▀▄ ▀█▀ █     █▀▄▀█ █▀▀▄   #
-# ▀▀▀▄▄ █  █ █▀▀█ █▄▄█  █  █     █ █ █ █  █   #
-# █▄▄▄█ ▀▄▄▀ █  █ █  █ ▄█▄ █▄▄█  █   █ █▄▄▀   #
+# █▀         𝗧𝗦𝗨𝗠𝗔-𝗪𝗕
+
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Tsuma-Md
+#    * @project_name : TSUMA-WB
 #    * @author : @Tsumahhh
 #    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Tsuma-Md ,A Multi-functional whatsapp bot md.
+#    * @description : TSUMA-WB,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
 
  
 
-FROM quay.io/tsumahhh/suhail-whatsapp-bot
-RUN git clone https://github.com/Tsumahhh/suhail-whatsapp-bot /root/smdd
+FROM quay.io/tsumahhh/TSUMA-WB
+RUN git clone https://github.com/Tsumahhh/TSUMA-WB /root/smdd
 RUN rm -rf /root/smdd/.git
 WORKDIR /root/smdd
 RUN npm install || yarn install
