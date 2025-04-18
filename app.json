@@ -75,7 +75,7 @@
     },
       "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "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",
+      "value": "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",
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
