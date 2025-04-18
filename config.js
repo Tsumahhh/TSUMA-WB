@@ -81,7 +81,7 @@ global.SESSION_ID = process.env.SESSION_ID  || "SUHAIL_13_06_04_18_ewogICJjcmVkc
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "ZrLKjBWajdeqwmUm4Lc5dTAR",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "HRKU-526705a6-2bbd-4e48-984f-a9b98a90c334",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "Solomon Mbotia",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
