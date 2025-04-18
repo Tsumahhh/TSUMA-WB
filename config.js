@@ -20,7 +20,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Kenya/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/Tsumahhh/TSUMA-WB";
 global.gurl  =process.env.GURL  || "https://wa.me/+254743399594";
 global.website=process.env.GURL || "https://wa.me/+254743399594" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/75fab4da4ca60e4a651d0.jpg" || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgur.com/xgr58sO"; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "TSUMA-WB" 
 
 
@@ -69,7 +69,7 @@ global.SESSION_ID = process.env.SESSION_ID  || "SUHAIL_13_06_04_18_ewogICJjcmVkc
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.0.1-developement-WB",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ TSUMA²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • TSUMA TECH』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ TSUMA²²¹-WB 』```", //*『sᴜʙsᴄʀɪʙᴇ • TSUMA TECH』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "★彡[ᴏɴʟʏ_ᴏɴᴇ_🥇TSUMA]彡★",
   packname: process.env.PACK_NAME || "Sticker by",
@@ -80,10 +80,10 @@ global.SESSION_ID = process.env.SESSION_ID  || "SUHAIL_13_06_04_18_ewogICJjcmVkc
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
-  REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
+  REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "ZrLKjBWajdeqwmUm4Lc5dTAR",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "HRKU-526705a6-2bbd-4e48-984f-a9b98a90c334",
+  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "Solomon Mbotia",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
@@ -97,7 +97,7 @@ global.SESSION_ID = process.env.SESSION_ID  || "SUHAIL_13_06_04_18_ewogICJjcmVkc
 
 
 
-global.ELEVENLAB_API_KEY = process.env.ELEVENLAB_API_KEY || "";
+global.ELEVENLAB_API_KEY = process.env.ELEVENLAB_API_KEY || "sk_040632c547ce6c453157d76eca2db6cb3801e6d4de4ddab3";
 global.aitts_Voice_Id = process.env.AITTS_ID|| "37";
 
 
@@ -138,4 +138,4 @@ fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename
   //read_status: process.env.AUTO_READ_STATUS || "false",
   //save_status: process.env.AUTO_SAVE_STATUS || "false",
   //aitts_Voice_Id : process.env.AITTS_ID || "37",
-  //ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "",
+  //ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "sk_040632c547ce6c453157d76eca2db6cb3801e6d4de4ddab3",
