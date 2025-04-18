@@ -1,6 +1,9 @@
 {
    "name": "TSUMA-WB",
    "version": "1.0.1",
+   "engines": {
+    "node": "22.x"
+  }
    "status" : "Under Developement!",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
