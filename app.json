@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "repository": "https://github.com/Tsumahhh/TSUMA-WB",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -40,17 +40,17 @@
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA5VV2YrjRhT9laFe7R5rl2xoiCTL8ipbtryoQx7KUkkua7U2Wx78HAiEhIQhCWToPMwE8g8h35BfyHxBf0KQ3U03zJKOnopS1bnn3nvOrVcgjHCKBqgErVcgTnABM1QtszJGoAWk3HFQAurAhhkELTAWTbHXySOfxzZWp3vC2e3MZYqCZL7YFbPiYMrTnCKDZUe8Bqc6iPO1j63PANrtyXEjrtoTuGjGsKZwsEsfVu1F6XYSfR1NJVrZ7rDBC9i7BqcKEeIEh64Sb1CAEugPUDmBOHke/VF73FWlopuPCLXpbederR9Q6mEslTeLGuxPNoyG8hvdKSn9efTZfaPpqA7GqWrw+DDhKPaoOqHsp3qfbysWIefEzDX3SzW60E+xGyK7Z6Mww1n57LoHitxXu8gkuhzT42V3a8xCtm34/UDk5jOjE0TR2jvOiWPHfR7xTlEshdRbzefmZkN5NZvWaFQbs7sgH61WixXjqkUj2FM10XtKfJI8aMX7P3WXh8eVxe5rW/pAyn1tWltZO6VG9Bdup0vF20mXLXSDHuzHC+t59En/RpzczJTuik8Du4P0oTUMibaoj/KJjg8R7WvGMWA4SI4e6cMsTz7HkhkNSudokOay1vY9R3ZubiiSnjT22RTaW5Pgi16vJ2mTnjE35b1+4Bsboj+oxbwVLDRe6nnpNIxoBVGCZMIOT8VUgxb31+eMPFT2bNAiT3WQIBenWQIzHIXnPYKoA2gXM2QlKDuXF/TM/txFVrxPx2OmtqC6urEsl75uHBsssUOKaUbIXkGSFohrUAdxElkoTZHdxWkWJeUIpSl0UQpaX547VSWdoCDKUB/boAUoluEZmm422SbzRfpyv4FZCuP4ZYgyUAdOEgUjBFpZkqM6OF+QCUVpMmJTEQROEtoUS9KESDOKzHIkwVFclWJwCWrgAKUZDGLQInmGJTmG4rjTV3UQokN20U+VNc3WgYOTNJuHeexH0H4Q18NPaFlRHmazMrTkaoES0CIft1GW4dBNq8zyECbWBhdIrvIALQf6KTrVgY0KbKEKD1zJq+l4Ok5mw1zcKbKwLfPM16vKbaLwcoQWkMDTHHdFOBS8Yiy4vhLWJHHFWoJA8LSN1pQAqnJcrFvd+aSStks+zveiFhBjj+922HmSb7h1g1Mo86yGiwRQguyHKq+h5eWxEXko/AzujcEOxS29dHiVp9uGZUlWoxBEaRpHT3Av0gKtV4/jUo7sCm+ls21S01VQdauK84EaWhT1oSBCWJ0Gd7c/vHv/828vXty9ef3u7s3rb97/+PbvP//56Y+7N99//eLF+19+vbv9/du727e3d7ff/VXxuW9WFclGGcR+WmlpnBMEq0vKcFf4I1FVxZEryq4IHpv7YNaLGTTcWLLyUXc57BYoGtBWJgayK4t+G9mxwcRHjRmvuzHe9q4/AgJa4BiTyFaccjbWjvFUabjLbbRGE5saKZEVBAxc4u6uIXND2udLwzGZ7YJXhbI/GxU0WkLdCDvWsT314nae1pwF6eGbzdnZDyJ7GqzLCjNyM6UQF8nduJzwkNGkgaZmGm6Uezs4yA0Pa7w4SBZFTfLcYDIY24WSCPOFOG3CzGb722K4EJZEKi2UxB1sdU1yL2PkPMb8++cD3xv8IkkHo/M0vm/Wfzb10R3Eqf4E436+f0KBkmEWZK6nRG8cRUN6J2f0UO+7kej2dTqE89rAOqJ2cODMqASnyvaxDzMnSgLQAjC0kwjboA58mGbio8E/MjNosg6CUozjWQazh7kAxOrrGyNw+heKdpgIuggAAA==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "TSUMA",
       "required": false
     },
     "URL": {
@@ -60,7 +60,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "254743399594",
       "required": false
     }
   },
